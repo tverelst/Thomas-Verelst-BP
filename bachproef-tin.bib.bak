@@ -195,12 +195,4 @@
   author    = {Alan Clements},
 }
 
-@Misc{hdd,
-  author  = {Rex Farrance},
-  title   = {Timeline: 50 Years of Hard Drives},
-  year    = {2006},
-  url     = {https://www.pcworld.com/article/127105/article.html},
-  urldate = {2017-12-02},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}

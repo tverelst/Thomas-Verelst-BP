@@ -1,0 +1,552 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{apa/global/}
+    \entry{BanksysAtos}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c8529ccddc224398922bcf29406c1b34}{%
+           family={{Atos}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c8529ccddc224398922bcf29406c1b34}
+      \strng{fullhash}{c8529ccddc224398922bcf29406c1b34}
+      \strng{authornamehash}{c8529ccddc224398922bcf29406c1b34}
+      \strng{authorfullhash}{c8529ccddc224398922bcf29406c1b34}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Banksys becomes Atos}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://atos.net/en/2007/non-classe_2007_06_01/pr-2007_06_01_02
+      \endverb
+    \endentry
+    \entry{tape}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=41216270f9af88de9c64b3029dacd66b}{%
+           family={Clements},
+           familyi={C\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cengage Learning}%
+      }
+      \strng{namehash}{41216270f9af88de9c64b3029dacd66b}
+      \strng{fullhash}{41216270f9af88de9c64b3029dacd66b}
+      \strng{authornamehash}{41216270f9af88de9c64b3029dacd66b}
+      \strng{authorfullhash}{41216270f9af88de9c64b3029dacd66b}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer Organization and Architecture: Themese and Variations}
+      \field{year}{2014}
+    \endentry
+    \entry{punch}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=618f588a07d4e4565652836e8e3f6069}{%
+           family={{Computer Hope}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{618f588a07d4e4565652836e8e3f6069}
+      \strng{fullhash}{618f588a07d4e4565652836e8e3f6069}
+      \strng{authornamehash}{618f588a07d4e4565652836e8e3f6069}
+      \strng{authorfullhash}{618f588a07d4e4565652836e8e3f6069}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Punch Card}
+      \field{urlday}{2}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.computerhope.com/jargon/p/punccard.htm
+      \endverb
+    \endentry
+    \entry{imageproblem}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=870b49dee2a81cd04e7832837ac81ac4}{%
+           family={Enderle},
+           familyi={E\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{870b49dee2a81cd04e7832837ac81ac4}
+      \strng{fullhash}{870b49dee2a81cd04e7832837ac81ac4}
+      \strng{authornamehash}{870b49dee2a81cd04e7832837ac81ac4}
+      \strng{authorfullhash}{870b49dee2a81cd04e7832837ac81ac4}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Mainframe: The Technology of Tomorrow with an Image Problem}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2017}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.itbusinessedge.com/blogs/unfiltered-opinion/the-mainframe-the-technology-of-tomorrow-with-an-image-problem.html
+      \endverb
+    \endentry
+    \entry{recruit}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=870b49dee2a81cd04e7832837ac81ac4}{%
+           family={Enderle},
+           familyi={E\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{870b49dee2a81cd04e7832837ac81ac4}
+      \strng{fullhash}{870b49dee2a81cd04e7832837ac81ac4}
+      \strng{authornamehash}{870b49dee2a81cd04e7832837ac81ac4}
+      \strng{authorfullhash}{870b49dee2a81cd04e7832837ac81ac4}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Mainframe: The Technology of Tomorrow with an Image Problem}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://itstillworks.com/13399693/why-were-still-working-with-mainframes-in-2017
+      \endverb
+    \endentry
+    \entry{SEPA}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cb17538b841f9bbeb1ca9bd8c953a32d}{%
+           family={{European Commision}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{cb17538b841f9bbeb1ca9bd8c953a32d}
+      \strng{fullhash}{cb17538b841f9bbeb1ca9bd8c953a32d}
+      \strng{authornamehash}{cb17538b841f9bbeb1ca9bd8c953a32d}
+      \strng{authorfullhash}{cb17538b841f9bbeb1ca9bd8c953a32d}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Single euro payments area (SEPA)}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en
+      \endverb
+    \endentry
+    \entry{hdd}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2534340b7f9c5d2e32629b9415191bcc}{%
+           family={Farrance},
+           familyi={F\bibinitperiod},
+           given={Rex},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2534340b7f9c5d2e32629b9415191bcc}
+      \strng{fullhash}{2534340b7f9c5d2e32629b9415191bcc}
+      \strng{authornamehash}{2534340b7f9c5d2e32629b9415191bcc}
+      \strng{authorfullhash}{2534340b7f9c5d2e32629b9415191bcc}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Timeline: 50 Years of Hard Drives}
+      \field{urlday}{2}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.pcworld.com/article/127105/article.html
+      \endverb
+    \endentry
+    \entry{compaqtandem}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b8d04231994de75465e4c3b27f2d133c}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8d04231994de75465e4c3b27f2d133c}
+      \strng{fullhash}{b8d04231994de75465e4c3b27f2d133c}
+      \strng{authornamehash}{b8d04231994de75465e4c3b27f2d133c}
+      \strng{authorfullhash}{b8d04231994de75465e4c3b27f2d133c}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Compaq to Acquire Tandem, Big-Systems Maker}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2017}
+      \field{year}{1997}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.nytimes.com/1997/06/24/business/compaq-to-acquire-tandem-big-systems-maker.html
+      \endverb
+    \endentry
+    \entry{hlnrec}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0f598644107ce61b8055498f54ee1191}{%
+           family={{Het Laatste Nieuws}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f598644107ce61b8055498f54ee1191}
+      \strng{fullhash}{0f598644107ce61b8055498f54ee1191}
+      \strng{authornamehash}{0f598644107ce61b8055498f54ee1191}
+      \strng{authorfullhash}{0f598644107ce61b8055498f54ee1191}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Record van elektronische betalingen per dag sneuvelt}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.hln.be/geld/consument/record-van-elektronische-betalingen-per-dag-sneuvelt~ac78d249/
+      \endverb
+    \endentry
+    \entry{hpcompaq}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2e49e0148efdb1feb5a07fb91d19a56b}{%
+           family={{Hewlett-Packard Company}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e49e0148efdb1feb5a07fb91d19a56b}
+      \strng{fullhash}{2e49e0148efdb1feb5a07fb91d19a56b}
+      \strng{authornamehash}{2e49e0148efdb1feb5a07fb91d19a56b}
+      \strng{authorfullhash}{2e49e0148efdb1feb5a07fb91d19a56b}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hewlett-Packard and Compaq agree to merge}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2017}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www8.hp.com/us/en/hp-news/press-release.html?id=230610#.WiprM1MrJhE
+      \endverb
+    \endentry
+    \entry{hpnonstop}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2e49e0148efdb1feb5a07fb91d19a56b}{%
+           family={{Hewlett-Packard Company}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e49e0148efdb1feb5a07fb91d19a56b}
+      \strng{fullhash}{2e49e0148efdb1feb5a07fb91d19a56b}
+      \strng{authornamehash}{2e49e0148efdb1feb5a07fb91d19a56b}
+      \strng{authorfullhash}{2e49e0148efdb1feb5a07fb91d19a56b}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{HP integrity NonStop}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.hpe.com/emea_europe/en/servers/nonstop.html
+      \endverb
+    \endentry
+    \entry{ecom}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d4822143a45facb45db1490ab81f6c78}{%
+           family={{InternetKassa}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4822143a45facb45db1490ab81f6c78}
+      \strng{fullhash}{d4822143a45facb45db1490ab81f6c78}
+      \strng{authornamehash}{d4822143a45facb45db1490ab81f6c78}
+      \strng{authorfullhash}{d4822143a45facb45db1490ab81f6c78}
+      \field{sortinit}{I}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{E-commerce in België en Nederland floreert}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.internetkassa.nu/e-commerce-in-belgie-en-nederland-floreert/
+      \endverb
+    \endentry
+    \entry{historyMC}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2fe3351421d198ea6d3c4a4a0358d08f}{%
+           family={{MasterCard}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2fe3351421d198ea6d3c4a4a0358d08f}
+      \strng{fullhash}{2fe3351421d198ea6d3c4a4a0358d08f}
+      \strng{authornamehash}{2fe3351421d198ea6d3c4a4a0358d08f}
+      \strng{authorfullhash}{2fe3351421d198ea6d3c4a4a0358d08f}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{History of Mastercard}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.mastercard.com/us/company/en/docs/history%20of%20payments.pdf
+      \endverb
+    \endentry
+    \entry{mainframedef}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d1e7e1edfab6580378c2b99fde94519d}{%
+           family={{Merriam Webster}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d1e7e1edfab6580378c2b99fde94519d}
+      \strng{fullhash}{d1e7e1edfab6580378c2b99fde94519d}
+      \strng{authornamehash}{d1e7e1edfab6580378c2b99fde94519d}
+      \strng{authorfullhash}{d1e7e1edfab6580378c2b99fde94519d}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Definition of Mainframe}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.merriam-webster.com/dictionary/mainframe
+      \endverb
+    \endentry
+    \entry{PCI}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=866e02b45d2fbf97038d29c847de07a7}{%
+           family={{PCI Security Standards Council}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{866e02b45d2fbf97038d29c847de07a7}
+      \strng{fullhash}{866e02b45d2fbf97038d29c847de07a7}
+      \strng{authornamehash}{866e02b45d2fbf97038d29c847de07a7}
+      \strng{authorfullhash}{866e02b45d2fbf97038d29c847de07a7}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{News}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.pcisecuritystandards.org/
+      \endverb
+    \endentry
+    \entry{dbhist2}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e5293d1de177f33461010b03395c2f49}{%
+           family={{Stephen Fortune}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5293d1de177f33461010b03395c2f49}
+      \strng{fullhash}{e5293d1de177f33461010b03395c2f49}
+      \strng{authornamehash}{e5293d1de177f33461010b03395c2f49}
+      \strng{authorfullhash}{e5293d1de177f33461010b03395c2f49}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{History of databases}
+      \field{urlday}{3}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://avant.org/project/history-of-databases/
+      \endverb
+    \endentry
+    \entry{dbhist1}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f271c43a973ef7bcfcdb4b20bb601f8e}{%
+           family={Thomas\bibnamedelimb M.\bibnamedelimi Connolly},
+           familyi={T\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Carolyn\bibnamedelimb E.\bibnamedelimi Begg},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education Limited}%
+      }
+      \strng{namehash}{f271c43a973ef7bcfcdb4b20bb601f8e}
+      \strng{fullhash}{f271c43a973ef7bcfcdb4b20bb601f8e}
+      \strng{authornamehash}{f271c43a973ef7bcfcdb4b20bb601f8e}
+      \strng{authorfullhash}{f271c43a973ef7bcfcdb4b20bb601f8e}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Database Systems: A practical Approach to Design, Implementation and Management (4th Edition)}
+      \field{year}{2005}
+    \endentry
+    \entry{monopoly}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6ca8ee56de733fcb55c3449b24dc9e6b}{%
+           family={{Vlaamse Overheid}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ca8ee56de733fcb55c3449b24dc9e6b}
+      \strng{fullhash}{6ca8ee56de733fcb55c3449b24dc9e6b}
+      \strng{authornamehash}{6ca8ee56de733fcb55c3449b24dc9e6b}
+      \strng{authorfullhash}{6ca8ee56de733fcb55c3449b24dc9e6b}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Monopoly on payment terminals faces challenge}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.flanderstoday.eu/business/monopoly-payment-terminals-faces-challenge
+      \endverb
+    \endentry
+    \entry{nonstophistory}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=96fd842abba2e78297bb8a79e1ec9105}{%
+           family={Whitfield},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{96fd842abba2e78297bb8a79e1ec9105}
+      \strng{fullhash}{96fd842abba2e78297bb8a79e1ec9105}
+      \strng{authornamehash}{96fd842abba2e78297bb8a79e1ec9105}
+      \strng{authorfullhash}{96fd842abba2e78297bb8a79e1ec9105}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mark Whitefield's Nonstop Portal}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2016}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.markwhitfield.net/TandemComputersTimelineHistoryHPNonStop/tabid/180/Default.aspx
+      \endverb
+    \endentry
+    \entry{AtosWorldline}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=940e3634739f92fb735561ad355fe117}{%
+           family={{Wordline}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{940e3634739f92fb735561ad355fe117}
+      \strng{fullhash}{940e3634739f92fb735561ad355fe117}
+      \strng{authornamehash}{940e3634739f92fb735561ad355fe117}
+      \strng{authorfullhash}{940e3634739f92fb735561ad355fe117}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{News}
+      \field{urlday}{1}
+      \field{urlmonth}{12}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://worldline.com/en/home/blog/news.html
+      \endverb
+    \endentry
+  \endsortlist
+  \missing{outage}
+  \missing{presentation}
+  \missing{internal}
+  \missing{NBB}
+  \missing{intern}
+\endrefsection
+\endinput
+

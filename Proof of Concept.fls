@@ -1,0 +1,4 @@
+PWD D:/Hogent/BPV2/newbp/Thomas-Verelst-BP
+INPUT C:/Users/thomas/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
+INPUT Proof of Concept.tex
+OUTPUT Proof of Concept.log

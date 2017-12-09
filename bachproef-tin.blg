@@ -1,5 +1,21 @@
-[0] Config.pm:318> INFO - This is Biber 1.8
-[0] Config.pm:321> INFO - Logfile is 'bachproef-tin.blg'
-[54] biber-MSWIN:272> INFO - === %a %b %e, %Y, %H:%M:%S
-[234] Utils.pm:185> ERROR - Cannot find control file 'bachproef-tin.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
-[234] Biber.pm:109> INFO - ERRORS: 1
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'bachproef-tin.blg'
+[45] biber-MSWIN64:303> INFO - === 
+[73] Biber.pm:359> INFO - Reading 'bachproef-tin.bcf'
+[178] Biber.pm:835> INFO - Found 25 citekeys in bib section 0
+[193] Biber.pm:3670> INFO - Processing section 0
+[213] Biber.pm:3840> INFO - Looking for bibtex format file 'bachproef-tin.bib' for section 0
+[216] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[222] bibtex.pm:1292> INFO - Found BibTeX data source 'bachproef-tin.bib'
+[252] Utils.pm:164> WARN - I didn't find a database entry for 'internal' (section 0)
+[252] Utils.pm:164> WARN - I didn't find a database entry for 'outage' (section 0)
+[252] Utils.pm:164> WARN - I didn't find a database entry for 'intern' (section 0)
+[252] Utils.pm:164> WARN - I didn't find a database entry for 'NBB' (section 0)
+[252] Utils.pm:164> WARN - I didn't find a database entry for 'presentation' (section 0)
+[310] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[311] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[311] Biber.pm:3499> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'nl-NL'
+[311] Biber.pm:3505> INFO - No sort tailoring available for locale 'nl-NL'
+[327] bbl.pm:608> INFO - Writing 'bachproef-tin.bbl' with encoding 'UTF-8'
+[331] bbl.pm:712> INFO - Output to bachproef-tin.bbl
+[331] Biber.pm:109> INFO - WARNINGS: 5

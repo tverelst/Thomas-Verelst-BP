@@ -26,13 +26,13 @@
 \newcommand{\instelling}{equensWorldline}
 
 % De titel van het rapport/bachelorproef
-\newcommand{\titel}{Auditting critical tables}
+\newcommand{\titel}{Enscribe on NonStop}
 
 % Datum van indienen (gebruik telkens de deadline, ook al geef je eerder af)
 \newcommand{\datum}{TBD}
 
 % Academiejaar
-\newcommand{\academiejaar}{201X-201X}
+\newcommand{\academiejaar}{2017-2018}
 
 % Examenperiode
 %  - 1e semester = 1e examenperiode => 1
@@ -53,12 +53,60 @@
 \selectlanguage{english}
 
 %---------- Titelblad ---------------------------------------------------------
-\inserttitlepage
+%\inserttitlepage
+\begin{titlepage}
+	\newgeometry{top=2cm,bottom=1.5cm,left=1.5cm,right=1.5cm}
+	\begin{center}
+		
+		\begingroup
+		\rmfamily
+		\includegraphics[width=2.5cm]{img/HG-beeldmerk-woordmerk}\\[.5cm]
+		Faculteit Bedrijf en Organisatie\\[3cm]
+		\titel
+		\vfill
+		\student\\[3.5cm]
+		Scriptie voorgedragen tot het bekomen van de graad van\\professionele bachelor in de toegepaste informatica\\[2cm]
+		Promotor:\\
+		\promotor\\
+		\ifdefempty{\copromotor}{\vspace{2.5cm}}{Co-promotor:\\\copromotor\\[2.5cm]}
+		Instelling: \instelling\\[.5cm]
+		Academiejaar: \academiejaar\\[.5cm]
+	    Eerste examenperiode
+		\endgroup
+		
+	\end{center}
+	\restoregeometry
+\end{titlepage}
+\emptypage
+\begin{titlepage}
+	\newgeometry{top=5.35cm,bottom=1.5cm,left=1.5cm,right=1.5cm}
+	\begin{center}
+		
+		\begingroup
+		\rmfamily
+		\IfLanguageName{dutch}{Faculteit Bedrijf en Organisatie}{Faculty of Business and Information Management}\\[3cm]
+		\titel
+		\vfill
+		\student\\[3.5cm]
+		\IfLanguageName{dutch}{Scriptie voorgedragen tot het bekomen van de graad van\\professionele bachelor in de toegepaste informatica}{Thesis submitted in partial fulfilment of the requirements for the degree of\\professional bachelor of applied computer science}\\[2cm]
+		Promotor:\\
+		\promotor\\
+		\ifdefempty{\copromotor}{\vspace{2.5cm}}{Co-promotor:\\\copromotor\\[2.5cm]}
+		\IfLanguageName{dutch}{Instelling}{Institution}: \instelling\\[.5cm]
+		\IfLanguageName{dutch}{Academiejaar}{Academic year}: \academiejaar\\[.5cm]
+		\IfLanguageName{dutch}{%
+			\ifcase \examenperiode \or Eerste \or Tweede \else Derde \fi examenperiode}{%
+			First examination period}
+		\endgroup
+		
+	\end{center}
+	\restoregeometry
+\end{titlepage}
 
 %---------- Samenvatting, voorwoord -------------------------------------------
 \usechapterimagefalse
 \input{samenvatting}
-\input{voorwoord}
+\input{Preface}
 
 %---------- Inhoudstafel ------------------------------------------------------
 \pagestyle{empty} % No headers
@@ -73,10 +121,9 @@
 %%---------- Kern -------------------------------------------------------------
 
 \input{inleiding}
-\input{equensWorldline}
-\input{methodologie}
-\input{Analysis}
-\input{Programming}
+\input{Methodologie}
+\input{Proof}
+\input{Conclusion}
 
 %% Voeg hier je eigen hoofdstukken toe die de ``corpus'' van je bachelorproef
 %% vormen. De structuur en titels hangen af van je eigen onderzoek. Je kan bv.
@@ -94,7 +141,7 @@
 \addcontentsline{toc}{chapter}{\textcolor{maincolor}{\IfLanguageName{dutch}{Bibliografie}{Bibliography}}}
 
 
-\listoffigures
+\listoffigures\texttt{}
 \listoftables
 
 \end{document}
